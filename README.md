@@ -10,8 +10,7 @@
 
 ## Sobre o projeto
 
-Esse projeto se trata de um acondeon, onde ao clicar em uma pergunta acontece uma animação para abrir o item
-e mostrar o texto escondido, com isso seta muda de direção e de cor. Também é possivel acessar outra pergunta ao clicar,  com isso será fechada a pergunta anterior e aberta a nova pergunta, contudo tambem é possivel fechar a pergunta em sua propria seta.
+Esse projeto se trata de um accordion, onde ao clicar em uma pergunta acontece uma animação para abrir o item e mostrar o texto escondido, com isso seta muda de direção e de cor. Também é possível acessar outra pergunta ao clicar, com isso será fechada a pergunta anterior e aberta a nova pergunta, contudo também é possível fechar a pergunta em sua própria seta.
 <br>
 <br>
 
@@ -32,7 +31,7 @@ e mostrar o texto escondido, com isso seta muda de direção e de cor. Também �
 
 ## O que eu aprendi
 
-Neste projeto, aprimorei os conhecimentos CSS. Nele também pude colocar em prática a manipulação do DOM,adicionando e removendo classes através do JS, exercitando a lógica utilizando for e addEventListener.
+Neste projeto, aprimorei os conhecimentos CSS. Nele também pude colocar em prática a manipulação do DOM, adicionando e removendo classes através do JS, exercitando a lógica utilizando for e addEventListener.
 
 ## Acesso a página
 
