@@ -3,10 +3,7 @@
 ## Sumário
 
 - [Sobre o projeto](#sobreoprojeto)
-- [Layout  desktop](#layout-web)
-- [Layout tablet](#layout-tablet)
-- [Layout mobile](#layout-mobile)
-
+- [Layout  desktop](#layout-desktop)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [O que eu aprendi](#o-que-eu-aprendi)
 - [Acesso a página](#acesso-a-página)
@@ -22,23 +19,10 @@ e mostrar o texto escondido, e a seta deve muda de direção e de cor. Neste pro
 
 <br>
 
-<img src="src/imagens/gif.-desktop.gif" alt="gif tela desktop">
+ <img src="src/imagens/acondeon.gif" alt="gif tela desktop">
 <br>
 <br>
 
-## Layout tablet
-
-<br>
-<br>
-
-<img src="src/imagens/gif.-tablet.gif" alt="gif tela tablet">
-
-## Layout mobile
-
-<br>
-<br>
-
-<img src="src/imagens/gif.-mobile.gif" alt="gif tela-mobile">
 
 ## Tecnologias utilizadas
 
@@ -52,4 +36,4 @@ Neste projeto, aprimorei os conhecimentos CSS. Nele também pude colocar em prá
 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Projeto-Hogwarts-Legacy/)
+Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Acordeon-JS/)
