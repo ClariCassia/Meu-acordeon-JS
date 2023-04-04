@@ -10,8 +10,8 @@
 
 ## Sobre o projeto
 
-Esse projeto se trata de um acondeon, onde ao clicar em uma pergunta deve acontece uma animação de acordeon para abrir o item
-e mostrar o texto escondido, e a seta deve muda de direção e de cor. Neste projeto é possivel abrir todas as perguntas ou uma ou mais sem interferir no tamanho do acordeon
+Esse projeto se trata de um acondeon, onde ao clicar em uma pergunta acontece uma animação para abrir o item
+e mostrar o texto escondido, com isso seta muda de direção e de cor. Também é possivel acessar outra pergunta ao clicar,  com isso será fechada a pergunta anterior e aberta a nova pergunta, contudo tambem é possivel fechar a pergunta em sua propria seta.
 <br>
 <br>
 
