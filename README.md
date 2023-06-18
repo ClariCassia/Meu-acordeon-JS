@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-Esse projeto se trata de um accordion, onde ao clicar em uma pergunta acontece uma animação para abrir o item e mostrar o texto escondido, com isso seta muda de direção e de cor. Também é possível acessar outra pergunta ao clicar, com isso será fechada a pergunta anterior e aberta a nova pergunta, contudo também é possível fechar a pergunta em sua própria seta.
+Esse projeto se trata de um acordeon, onde ao clicar em uma pergunta acontece uma animação para abrir o item e mostrar o texto escondido, com isso seta muda de direção e de cor. Também é possível acessar outra pergunta ao clicar, com isso será fechada a pergunta anterior e aberta a nova pergunta, contudo também é possível fechar a pergunta em sua própria seta.
 <br>
 <br>
 
