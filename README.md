@@ -35,4 +35,4 @@ Neste projeto, aprimorei os conhecimentos CSS, onde nele pude utilizar o font aw
 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Acordeon-JS/)
+Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Meu-acordeon-JS/)
