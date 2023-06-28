@@ -1,21 +1,23 @@
-let pergunta = document.getElementsByClassName("pergunta");
+let perguntas = document.querySelectorAll(".item");
 
-for (let i = 0; i < pergunta.length; i++) {
-  pergunta[i].addEventListener("click", () => {
-    let respostas = document.getElementsByClassName("resposta");
-    let setas = document.getElementsByClassName("seta");
+perguntas.forEach((item, index) => {
+    item.addEventListener("click", () => {
+        let respostas = document.querySelectorAll(".resposta");
+        let setas = document.querySelectorAll(".seta");
 
-    if (!respostas[i].classList.contains("resposta-ativa")) {
-      for (let j = 0; j < respostas.length; j++) {
-        respostas[j].classList.remove("resposta-ativa");
-        setas[j].classList.remove("seta-ativa");
-      }
+        if (!respostas[index].classList.contains("resposta-ativa")) {
+            respostas.forEach((cadaResposta) => {
+                cadaResposta.classList.remove("resposta-ativa");
+                setas.forEach((setaAtiva) => {
+                    setaAtiva.classList.remove("seta-ativa");
+                })
+            })
+            respostas[index].classList.add("resposta-ativa");
+            setas[index].classList.add("seta-ativa");
 
-      respostas[i].classList.add("resposta-ativa");
-      setas[i].classList.add("seta-ativa");
-    } else {
-      respostas[i].classList.remove("resposta-ativa");
-      setas[i].classList.remove("seta-ativa");
-    }
-  });
-}
+        } else {
+            respostas[index].classList.remove("resposta-ativa");
+            setas[index].classList.remove("seta-ativa");
+        }
+    })
+})
