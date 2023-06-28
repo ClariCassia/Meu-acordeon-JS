@@ -31,7 +31,7 @@ Esse projeto se trata de um acordeon, onde ao clicar em uma pergunta acontece um
 
 ## O que eu aprendi
 
-Neste projeto, aprimorei os conhecimentos CSS, onde nele pude utilizar o font awesome, ferramenta que facilita a manipulação de icones. Nele também pude colocar em prática a manipulação do DOM, adicionando e removendo classes através do JS, exercitando a lógica utilizando for e addEventListener.
+Neste projeto, aprimorei os conhecimentos CSS, onde nele pude utilizar o font awesome, ferramenta que facilita a manipulação de icones. Nele também pude colocar em prática a manipulação do DOM adicionando o addEventListener e através do JS pude exercitar a lógica utilizando o forEatch para percorrer os item adicionando e removendo classes.
 
 ## Acesso a página
 
